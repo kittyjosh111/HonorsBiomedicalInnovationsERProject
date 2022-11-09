@@ -1,4 +1,6 @@
-This is a DOOM wad file made for the Emergency Room project in the MVROP Honors Biomedical Innovations course for the 2021-2022 school year. It was created using the Eureka Doom Editor running on Arch Linux. Custom textures were created and edited using the SLADE editor, running on WINE. To load this wad, you will need the `hellonearthstarterpack.wad` wad from Hell on Earth, which was created by Seargant Mark IV.  `map.wad` has no enemies.
+This is a DOOM wad file made for the Emergency Room project in the MVROP Honors Biomedical Innovations course for the 2021-2022 school year. It was created using the Eureka Doom Editor running on Arch Linux. Custom textures were created and edited using the SLADE editor, running on WINE. To load this wad, you will need the `hellonearthstarterpack.wad` wad from Hell on Earth, which was created by Seargant Mark IV.  
+
+`map.wad` has no enemies. `map_monsters.wad` has enemies throughout the map. It has cover added in for mods such as Hideous Destructor.
 
 If you don't know much about Doom, I suggest downloading GZDOOM (https://www.zdoom.org/downloads) as an engine. You can use something like ZDL to manage mod load order (https://zdoom.org/wiki/ZDL)
 
